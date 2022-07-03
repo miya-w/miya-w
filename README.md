@@ -1,18 +1,19 @@
 
 <h1 align="center">Hi! I'm Miya Miah</h1>
-<h3 align="center">I'm a passionate Front-end devloper base in Melbourne.</h3>
+<h3 align="center">I'm a passionate  Front-end devloper base in Melbourne.</h3>
 
 
 ## 🙋‍♂️ About Me
 
+- :computer: I am a self- taught programmer, I pick it up during Melbourne LockDown.
 
 - 🌱 I’m currently learning **MERN**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- :two_hearts: I’m looking to collaborate on **OpenSource Projects**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/miya-w?tab=repositories)**
 
-- 📫 How to reach me **miya.miah.w@gmail.com**
+- :email: How to reach me **miya.miah.w@gmail.com**
 
 - ⚡ Fun fact **I play games and love bushWalking,kayaking.**
 
