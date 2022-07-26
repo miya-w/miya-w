@@ -5,9 +5,9 @@
 
 ## 🙋‍♂️ About Me
 
-- :computer: I am a self- taught programmer, I pick it up during Melbourne LockDown.
+- :computer: **My programing journey started from Melbourne LockDown**
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **MERN**, **Durapal**,and **Python**
 
 - :two_hearts: I’m looking to collaborate on **OpenSource Projects**
 
@@ -15,7 +15,7 @@
 
 - :email: How to reach me **miya.miah.w@gmail.com**
 
-- ⚡ Fun fact **I play games and love bushWalking,kayaking.**
+- ⚡ Fun fact **I play lots of games, board games and love bushWalking, kayaking, have PADI advanced open water diving licence**
 
 
 
@@ -30,6 +30,10 @@
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a> 
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/></a> 
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="48" height="48"/></a> 
+
+
+    
     
 
 
