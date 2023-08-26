@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi! I'm Miya Miah</h1>
-<h3 align="center">I'm a passionate  Front-end devloper base in Melbourne.</h3>
+<h3 align="center">I'm a passionate  web devloper base in Melbourne.</h3>
 
 
 ## 🙋‍♂️ About Me
